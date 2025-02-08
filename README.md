@@ -1,2 +1,2 @@
-# Week-1
-Predicting Solar Power Output using Linear Regression
+#Predicting Solar Power Output using Linear Regression
+3 week edunet internship with weekly submissions
